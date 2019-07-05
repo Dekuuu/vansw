@@ -1,0 +1,3 @@
+com\ego\password\service\impl\TbUserServiceImpl.class
+com\ego\password\service\TbUserService.class
+com\ego\password\controller\TbUserController.class

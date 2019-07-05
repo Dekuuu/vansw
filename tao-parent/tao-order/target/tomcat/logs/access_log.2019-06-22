@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:21 +0800] "GET /order/order-cart.html?id=156056398535811 HTTP/1.1" 200 24492 http-bio-8086-exec-1 3154
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /css/order-commons.css HTTP/1.1" 304 - http-bio-8086-exec-2 298
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/jquery.checkout.js HTTP/1.1" 304 - http-bio-8086-exec-7 268
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/order.common.js HTTP/1.1" 304 - http-bio-8086-exec-4 285
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /css/base.css HTTP/1.1" 304 - http-bio-8086-exec-3 308
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/base.js HTTP/1.1" 304 - http-bio-8086-exec-5 268
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8086-exec-6 270
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /images/ego-logo.gif HTTP/1.1" 304 - http-bio-8086-exec-3 80
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /images/20130725.png HTTP/1.1" 304 - http-bio-8086-exec-9 92
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/ego.js HTTP/1.1" 304 - http-bio-8086-exec-8 112
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/jquery-extend.js HTTP/1.1" 304 - http-bio-8086-exec-11 124
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /images/user_purchase.png HTTP/1.1" 304 - http-bio-8086-exec-2 76
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /js/lib-v1.js HTTP/1.1" 304 - http-bio-8086-exec-12 150
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /images/purchase-icon.png HTTP/1.1" 304 - http-bio-8086-exec-9 45
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:22 +0800] "GET /images/20130330A_2.png HTTP/1.1" 304 - http-bio-8086-exec-10 86
+0:0:0:0:0:0:0:1 - - [22/Jun/2019:17:26:30 +0800] "POST /order/create.html HTTP/1.1" 200 51629 http-bio-8086-exec-10 646
